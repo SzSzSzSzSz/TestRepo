@@ -1,3 +1,20 @@
 body {
-  
+  background-color: gainsboro;
+}
+
+#Tytuł {
+    font-weight: bold;
+}
+
+.Opinia {
+    font-style: italic;
+}
+
+.ImgC {
+    display:flex;
+   width: 100%;
+    justify-content: space-around;
+}
+img {
+    width: 45%;
 }
